@@ -19,7 +19,7 @@ $ python setup.py install
 Run `handler.py` and then visit http://localhost:8008.
 
 ```
-$ python handler.py
+$ python2 handler.py
 ```
 
 # Authors
